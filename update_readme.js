@@ -18,6 +18,7 @@ const libraries = {
   'react-rxjs': '<a href="https://react-rxjs.org">react-rxjs</a>',
   valtio: '<a href="https://github.com/pmndrs/valtio">valtio</a>',
   proxily: '<a href="https://github.com/selsamman/proxily">proxily</a>',
+  'react-state': 'React useContext / useCallback',
 };
 
 function wrap(content, tag) { return `<${tag}>${content}</${tag}>`; }
